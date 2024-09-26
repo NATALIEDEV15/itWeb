@@ -1,0 +1,59 @@
+.VideoSection-module--section--ff046 {
+  background: #f8f8f8
+}
+
+.VideoSection-module--videoBanner--cc493 {
+  height: 0;
+  padding-top: 56.25%;
+  position: relative;
+  width: 100%
+}
+
+.VideoSection-module--videoBanner--cc493 .VideoSection-module--play_icon--c57e1 {
+  bottom: 30px;
+  cursor: pointer;
+  height: 30px;
+  left: 42px;
+  position: absolute
+}
+
+@media(max-width:768px) {
+  .VideoSection-module--videoBanner--cc493 .VideoSection-module--play_icon--c57e1 {
+    left: 22px
+  }
+}
+
+.VideoSection-module--videoBanner--cc493 .VideoSection-module--imgContainer--f92e6 {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  width: 100%
+}
+
+@media(max-width:768px) {
+  .VideoSection-module--videoBanner--cc493 {
+    margin-top: 50px
+  }
+}
+
+.VideoSection-module--modalContent--6ed7d {
+  background: transparent
+}
+
+.VideoSection-module--modalBody--015b3 {
+  height: 0;
+  padding-bottom: 56.25%;
+  position: relative
+}
+
+.VideoSection-module--modalBody--015b3 iframe {
+  border: 0;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%
+}
